@@ -1,6 +1,6 @@
-﻿# notes-calculator
-# Notes Calculator  
 
+# Notes Calculator  
+![Form JS](images/form_js.jpg)
 A simple calculator to compute student grades and average scores.  
 
 ## Features  
@@ -15,3 +15,6 @@ A simple calculator to compute student grades and average scores.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/YASINet12/notes-calculator.git
+   
+
+
