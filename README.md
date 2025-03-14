@@ -1,6 +1,6 @@
 
 # Notes Calculator  
-![Form JS](images/form_js.jpg)
+
 A simple calculator to compute student grades and average scores.  
 
 ## Features  
